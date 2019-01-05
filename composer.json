@@ -1,0 +1,19 @@
+{
+    "name": "d8q8/hello",
+    "description": "hello",
+    "type": "1",
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "d8q8\\hello\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [{
+        "name": "d8q8",
+        "email": "d8q8@163.com"
+    }],
+    "minimum-stability": "dev"
+}
