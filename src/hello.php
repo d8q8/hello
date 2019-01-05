@@ -3,7 +3,7 @@
 /**
  * Hello命名空间
  */
-namespace d8q8\hello;
+namespace hello;
 
 /**
  * Hello测试类包
